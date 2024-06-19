@@ -1,0 +1,1 @@
+A Music Academy project made by following a youtube video from @ChaiAurCode. This project was built using Next.js and Aceternity UI (component library).
